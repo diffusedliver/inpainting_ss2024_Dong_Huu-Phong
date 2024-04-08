@@ -63,3 +63,6 @@ def voronoi_finite_polygons_2d( points, radius=None ):
 		new_regions.append(new_region.tolist())
 
 	return new_regions, numpy.asarray(new_vertices)
+#%%
+
+#%%
